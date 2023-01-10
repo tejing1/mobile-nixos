@@ -20,6 +20,8 @@
       BT = yes;
       BT_HCIUART = yes;
       BT_HCIUART_BCM = yes;
+      BT_HIDP = yes;
+      BT_BREDR = yes;
 
       # Wifi
       WLAN = yes;
